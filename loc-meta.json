@@ -1,0 +1,89 @@
+{"header" : {
+  "cloc_url"           : "github.com/AlDanial/cloc",
+  "cloc_version"       : "1.96",
+  "elapsed_seconds"    : 0.419790029525757,
+  "n_files"            : 77,
+  "n_lines"            : 3830,
+  "files_per_second"   : 183.425032955137,
+  "lines_per_second"   : 9123.60878205423,
+  "report_file"        : "loc-meta.json"},
+"XML" :{
+  "nFiles": 21,
+  "blank": 4,
+  "comment": 46,
+  "code": 811},
+"Dart" :{
+  "nFiles": 10,
+  "blank": 51,
+  "comment": 25,
+  "code": 627},
+"C++" :{
+  "nFiles": 8,
+  "blank": 114,
+  "comment": 53,
+  "code": 433},
+"CMake" :{
+  "nFiles": 7,
+  "blank": 77,
+  "comment": 107,
+  "code": 335},
+"JSON" :{
+  "nFiles": 4,
+  "blank": 0,
+  "comment": 0,
+  "code": 248},
+"Python" :{
+  "nFiles": 3,
+  "blank": 41,
+  "comment": 15,
+  "code": 113},
+"C/C++ Header" :{
+  "nFiles": 8,
+  "blank": 51,
+  "comment": 65,
+  "code": 103},
+"Gradle" :{
+  "nFiles": 3,
+  "blank": 19,
+  "comment": 5,
+  "code": 89},
+"Windows Resource File" :{
+  "nFiles": 1,
+  "blank": 23,
+  "comment": 29,
+  "code": 69},
+"YAML" :{
+  "nFiles": 3,
+  "blank": 21,
+  "comment": 80,
+  "code": 47},
+"Swift" :{
+  "nFiles": 4,
+  "blank": 8,
+  "comment": 3,
+  "code": 40},
+"HTML" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 13,
+  "code": 38},
+"Properties" :{
+  "nFiles": 2,
+  "blank": 0,
+  "comment": 0,
+  "code": 8},
+"Kotlin" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 4},
+"Markdown" :{
+  "nFiles": 1,
+  "blank": 2,
+  "comment": 0,
+  "code": 3},
+"SUM": {
+  "blank": 421,
+  "comment": 441,
+  "code": 2968,
+  "nFiles": 77} }

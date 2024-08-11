@@ -1,11 +1,11 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.96",
-  "elapsed_seconds"    : 0.435943841934204,
-  "n_files"            : 78,
-  "n_lines"            : 3919,
-  "files_per_second"   : 178.922128258374,
-  "lines_per_second"   : 8989.69000826369,
+  "elapsed_seconds"    : 0.430675983428955,
+  "n_files"            : 79,
+  "n_lines"            : 3964,
+  "files_per_second"   : 183.432564247066,
+  "lines_per_second"   : 9204.1352490553,
   "report_file"        : "loc-meta.json"},
 "XML" :{
   "nFiles": 21,
@@ -47,16 +47,16 @@
   "blank": 19,
   "comment": 5,
   "code": 89},
+"YAML" :{
+  "nFiles": 4,
+  "blank": 28,
+  "comment": 80,
+  "code": 85},
 "Windows Resource File" :{
   "nFiles": 1,
   "blank": 23,
   "comment": 29,
   "code": 69},
-"YAML" :{
-  "nFiles": 3,
-  "blank": 21,
-  "comment": 80,
-  "code": 47},
 "Swift" :{
   "nFiles": 4,
   "blank": 8,
@@ -83,7 +83,7 @@
   "comment": 0,
   "code": 3},
 "SUM": {
-  "blank": 421,
+  "blank": 428,
   "comment": 441,
-  "code": 3057,
-  "nFiles": 78} }
+  "code": 3095,
+  "nFiles": 79} }
